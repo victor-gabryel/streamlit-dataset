@@ -248,20 +248,19 @@ A estrutura da pasta deve ficar assim:
 projetoAssistido
 │
 ├── app.py
+├── requeriments.txt
 ├── data.csv
 └── README.md
 ```
 
 ---
 
-# Passo a Passo para Executar o Projeto
+# Abrir a aplicação
 
-## 8. Abrir a aplicação
-
-O terminal mostrará:
+O projeto estará disponível em:
 
 ```
-Local URL: http://localhost:8501
+Local URL: https://app-dataset-6dspwcvqxvvnyevpxsumbi.streamlit.app/
 ```
 
-Abra esse endereço no navegador. arrume isso e me mande em readme 
+Abra esse endereço no navegador.
