@@ -114,7 +114,9 @@ nox = st.sidebar.number_input(
 
 rm = st.sidebar.number_input(
     "Número de quartos [RM]",
-    value=float(data.RM.mean())
+    min_value=0,
+    value=int(data.RM.mean()),
+    step=1
 )
 
 ptratio = st.sidebar.number_input(
