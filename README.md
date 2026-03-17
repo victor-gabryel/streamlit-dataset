@@ -343,4 +343,4 @@ O terminal mostrará:
 Local URL: http://localhost:8501
 ```
 
-Abra esse endereço no navegador. arrume isso e me mande em readme 
+Abra esse endereço no navegador.
