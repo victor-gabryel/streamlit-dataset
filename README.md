@@ -242,7 +242,7 @@ O fluxo completo da aplicação é:
 
 ## Estrutura do Projeto
 
-A estrutura final da pasta deve ficar assim:
+A estrutura da pasta deve ficar assim:
 
 ```
 projetoAssistido
@@ -250,3 +250,18 @@ projetoAssistido
 ├── app.py
 ├── data.csv
 └── README.md
+```
+
+---
+
+# Passo a Passo para Executar o Projeto
+
+## 8. Abrir a aplicação
+
+O terminal mostrará:
+
+```
+Local URL: http://localhost:8501
+```
+
+Abra esse endereço no navegador. arrume isso e me mande em readme 
