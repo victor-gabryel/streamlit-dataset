@@ -251,7 +251,7 @@ projetoAssistido
 ├── generate_data.py
 ├── data.csv
 ├── requirements.txt
-├── readme.txt
+├── README.md
 └── venv
 ```
 
