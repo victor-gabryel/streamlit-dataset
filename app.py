@@ -135,3 +135,10 @@ if st.sidebar.button("Prever preço"):
     st.subheader("Valor previsto do imóvel")
 
     st.write("US$", round(resultado[0]*1000,2))
+
+
+
+# -----------------------------
+# Citações
+# -----------------------------
+st.markdown("Projeto desenvolvido por Victor Gabryel da Silva.")
