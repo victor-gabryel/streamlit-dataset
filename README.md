@@ -1,4 +1,4 @@
-# Projeto Dataset AI - Versão 01
+# Projeto Dataset AI - Versão 02
 
 # 1. Importação das bibliotecas
 
@@ -242,105 +242,11 @@ O fluxo completo da aplicação é:
 
 ## Estrutura do Projeto
 
-A estrutura da pasta deve ficar assim:
+A estrutura final da pasta deve ficar assim:
 
 ```
 projetoAssistido
 │
 ├── app.py
-├── generate_data.py
 ├── data.csv
-├── requirements.txt
-├── readme.txt
-└── venv
-```
-
----
-
-# Passo a Passo para Executar o Projeto
-
-## 1. Abrir a pasta do projeto
-
-Abra o **VS Code** e abra a pasta:
-
-```
-projetoAssistido
-```
-
----
-
-## 2. Criar o ambiente virtual
-
-No terminal do VS Code execute:
-
-```
-python -m venv venv
-```
-
----
-
-## 3. Ativar o ambiente virtual
-
-No **PowerShell do VS Code** execute:
-
-```
-venv\Scripts\activate
-```
-
----
-
-## 4. Instalar as dependências
-
-Execute:
-
-```
-pip install -r requirements.txt
-```
-
----
-
-## 5. Gerar o dataset
-
-Execute:
-
-```
-python generate_data.py
-```
-
----
-
-## 6. Executar o aplicativo
-
-Execute:
-
-```
-streamlit run app.py
-```
-
----
-
-## 7. Caso o Streamlit peça email
-
-Se aparecer no terminal:
-
-```
-Email:
-```
-
-Pressione:
-
-```
-ENTER
-```
-
----
-
-## 8. Abrir a aplicação
-
-O terminal mostrará:
-
-```
-Local URL: http://localhost:8501
-```
-
-Abra esse endereço no navegador. arrume isso e me mande em readme 
+└── README.md
