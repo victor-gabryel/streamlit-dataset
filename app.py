@@ -142,4 +142,4 @@ if st.sidebar.button("Prever preço"):
 # Citações
 # -----------------------------
 st.sidebar.markdown("---")
-st.sidebar.caption("Projeto desenvolvido por Victor Gabryel da Silva.")
+st.sidebar.caption("Desenvolvido por Victor Gabryel da Silva.")
