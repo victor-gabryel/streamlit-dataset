@@ -260,7 +260,7 @@ projetoAssistido
 O projeto estará disponível em:
 
 ```
-Local URL: https://app-dataset-6dspwcvqxvvnyevpxsumbi.streamlit.app/
+https://app-dataset-6dspwcvqxvvnyevpxsumbi.streamlit.app/
 ```
 
 Abra esse endereço no navegador.
